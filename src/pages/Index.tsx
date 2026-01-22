@@ -20,7 +20,7 @@ export default function Index() {
             <h1 className="hero-title">
               СВЕЖИЕ РОЛЛЫ,
               <br />
-              <span>ВКУС</span> ДРАКОНОВ
+              ТОЛЬКО <span>РОЛЛЫ</span>
             </h1>
             <p className="text-base md:text-lg lg:text-xl mb-8 md:mb-10 leading-relaxed text-[#555]">
               Ретро-стиль в японской кухне. Свежие роллы, авторские сеты и атмосфера для настоящих ценителей суши.
