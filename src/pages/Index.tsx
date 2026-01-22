@@ -20,7 +20,7 @@ export default function Index() {
             <h1 className="hero-title">
               СВЕЖИЕ РОЛЛЫ,
               <br />
-              НАСТОЯЩИЙ <span>ВКУС</span>
+              <span>ВКУС</span> ДРАКОНОВ
             </h1>
             <p className="text-base md:text-lg lg:text-xl mb-8 md:mb-10 leading-relaxed text-[#555]">
               Ретро-стиль в японской кухне. Свежие роллы, авторские сеты и атмосфера для настоящих ценителей суши.
@@ -169,25 +169,25 @@ export default function Index() {
           <div className="social-grid">
             <div className="social-item">
               <img
-                src="https://images.unsplash.com/photo-1467003909585-2f8a72700288?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+                src="https://cdn.poehali.dev/projects/b90d2397-78e9-45b7-b330-66da06f35dd1/files/69848ab7-4e8f-4592-8bd4-21022c5cfa6f.jpg"
                 alt="Инста 1"
               />
             </div>
             <div className="social-item">
               <img
-                src="https://images.unsplash.com/photo-1534353473418-4cfa6c56fd38?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+                src="https://cdn.poehali.dev/projects/b90d2397-78e9-45b7-b330-66da06f35dd1/files/7b89095b-f350-4324-b4b1-0dc829fed704.jpg"
                 alt="Инста 2"
               />
             </div>
             <div className="social-item">
               <img
-                src="https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+                src="https://cdn.poehali.dev/projects/b90d2397-78e9-45b7-b330-66da06f35dd1/files/2d8c2533-d1b8-46cb-8d57-dde05cfbc47a.jpg"
                 alt="Инста 3"
               />
             </div>
             <div className="social-item">
               <img
-                src="https://images.unsplash.com/photo-1559339352-11d035aa65de?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+                src="https://cdn.poehali.dev/projects/b90d2397-78e9-45b7-b330-66da06f35dd1/files/437c6e77-7ad4-499b-a7d3-336441b4a0d4.jpg"
                 alt="Инста 4"
               />
             </div>
